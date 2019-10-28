@@ -1,0 +1,46 @@
+html{
+    background: lightgray;
+}
+
+nav ul {
+    background-color: white;
+}
+
+#header{
+    background-color: teal;
+    text-emphasis: bold;
+    font-size: 30px;
+    color: white;
+    align: inline-table;
+
+
+}
+nav ul li{
+    padding: 10px;
+    display: inline-table;
+    
+}
+
+div{
+    background: white;
+    padding: 40px;
+}
+div p {
+    padding: 8px;
+}
+
+div img{
+    height: 250px;
+    float: left;
+    
+}
+div h2{
+    color:teal;
+    background-color: white;
+    text-emphasis: bold;
+}
+
+div img{
+    background-color: white;
+    padding: 10px 10px 10px 10px;
+}
