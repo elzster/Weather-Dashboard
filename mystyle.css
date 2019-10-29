@@ -2,35 +2,39 @@ html{
     background: lightgray;
 }
 
-nav ul {
+elf{
+    color: white;
+    background-color: teal;
+    text-emphasis: bold;
+    font-size: 40px;
+    padding: 15px;
+}
+nav  {
     background-color: white;
 }
-
+.visualizations{
+    margin-block: 10px;
+}
 #header{
     background-color: teal;
     text-emphasis: bold;
     font-size: 30px;
     color: white;
     align: inline-table;
-
-
 }
-nav ul li{
+/* nav li{
     padding: 10px;
-    display: inline-table;
-    
-}
+    display: inline-block;
+    text-decoration: none;
+    color: gray; */
 
-div{
-    background: white;
-    padding: 40px;
 }
 div p {
     padding: 8px;
 }
 
 div img{
-    height: 250px;
+    height: 270px;
     float: left;
     
 }
@@ -38,9 +42,23 @@ div h2{
     color:teal;
     background-color: white;
     text-emphasis: bold;
+    text-align: left;
+    padding: 10px;
 }
 
 div img{
     background-color: white;
     padding: 10px 10px 10px 10px;
+}
+#visualizations{
+    background-color: white;
+    align-content: center;
+}
+#Data {
+    color: teal
+}
+
+br{
+    display: block;
+    margin: 10px 0;
 }
