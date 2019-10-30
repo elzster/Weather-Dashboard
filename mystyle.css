@@ -1,8 +1,8 @@
-html{
+/* html{
     background: lightgray;
-}
+} */
 
-elf{
+.latitude{
     color: white;
     background-color: teal;
     text-emphasis: bold;
@@ -15,10 +15,13 @@ nav  {
 .visualizations{
     margin-block: 10px;
 }
+div img{
+    float:left;
+}
 
 div e img{
     height: 100px;
-    float: right;
+    float: left;
 }    
 
 h2{
@@ -37,7 +40,3 @@ h2{
     padding-left: 0;
     text-align: right;
    }
-
-#container{
-    border-block: true;
-}
