@@ -10,7 +10,7 @@
     padding: 15px;
 }
 nav  {
-    background-color: white;
+    /* background-color: white; */
 }
 .visualizations{
     margin-block: 10px;
@@ -26,7 +26,7 @@ div e img{
 
 h2{
     color:teal;
-    background-color: white;
+    /* background-color: white; */
     text-emphasis: bold;
     text-align: left;
     padding: 10px;
@@ -40,3 +40,6 @@ h2{
     padding-left: 0;
     text-align: right;
    }
+body{
+    background-color: gray
+}
