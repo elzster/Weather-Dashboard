@@ -16,5 +16,5 @@ The visualizations contained inside are showing the impact of Latitude vs factor
 ### Below is a sample screenshot of the dashboard:
 ![ScreenShot](images/screen1.png)
 
-
+## [Click here to view the Entire Dashboard](https://elzster.github.io/Weather-Dashboard/)
 
